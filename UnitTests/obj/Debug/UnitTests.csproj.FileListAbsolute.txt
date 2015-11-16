@@ -1,0 +1,14 @@
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\bin\Debug\RightTriangle.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\bin\Debug\RightTriangle.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\bin\Debug\RightTriangle.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\bin\Debug\RightTriangle.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\UnitTests\obj\Debug\UnitTests.pdb

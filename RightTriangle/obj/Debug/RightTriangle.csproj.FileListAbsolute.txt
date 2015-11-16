@@ -1,0 +1,8 @@
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\RightTriangle\bin\Debug\RightTriangle.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\RightTriangle\bin\Debug\RightTriangle.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\RightTriangle\obj\Debug\RightTriangle.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangleLibrary\RightTriangle\obj\Debug\RightTriangle.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangle\bin\Debug\RightTriangle.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangle\bin\Debug\RightTriangle.pdb
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangle\obj\Debug\RightTriangle.dll
+C:\Users\Артем\Documents\Visual Studio 2013\Projects\RightTriangle\RightTriangle\obj\Debug\RightTriangle.pdb
